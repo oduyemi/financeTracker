@@ -1,0 +1,73 @@
+
+* {
+  box-sizing: border-box;
+  padding: none;
+  margin: none;
+}
+
+._logo {
+  position: absolute !important;
+  top: 0;
+  width: 50%;
+}
+
+#logo {
+  max-width: 40%;
+  position: relative;
+  top: -50%;
+  left: 50%;
+}
+
+
+.headercase {
+  width: 35%;
+  position: relative;
+  top: 45px;
+  right: 6%;
+}
+
+
+
+._intro {
+  position: absolute !important;
+  top: 37% !important;
+  left: 8%;
+  color: #9EA3B0;
+  font-size: medium;
+  font-style: italic;
+  font-weight: 200;
+  width: 50%;
+  text-align: center;
+}
+
+#headintro {
+  height: 100vh;
+  position: absolute !important;
+  right: 0;
+}
+
+#_intro_msg {
+  position: absolute !important;
+  top: 42%;
+}
+
+#_intro_msg span {
+  font-size: small;
+  font-weight: 400;
+}
+
+._dropdown {
+  position: absolute !important;
+  bottom: 50%;
+  left: 22%;
+  font-weight: 200;
+}
+
+._ctadropdown {
+  position: absolute !important;
+  bottom: 38%;
+  left: 28%;
+}
+
+
+
